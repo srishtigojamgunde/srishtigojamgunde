@@ -1,8 +1,5 @@
 ## ABOUT ME
 
-<!--
-**srishtigojamgunde/srishtigojamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi, I’m Srishti Gojamgunde. I’m a social data scientist specializing in statistical modeling and working with unstructured textual data to uncover and communicate the hidden stories within. My passion lies at the intersection of data, human behavior, and storytelling—exploring questions like: How does media shape people’s beliefs, attitudes, and behaviors? How do mental health and deeply held, idiosyncratic beliefs influence the societies we build? And most importantly, how do we determine what is truly good for society? 
 
 What I do:
