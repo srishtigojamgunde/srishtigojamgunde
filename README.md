@@ -4,7 +4,7 @@ Hi, I’m Srishti Gojamgunde. I’m a social data scientist specializing in stat
 
 What I do:
 - Statistical Analysis: Conduct hypothesis testing and inference using General Linear Models (e.g., regression analysis, ANOVA), Generalized Linear Models (e.g., logistic and Poisson regression), and other parametric and non-parametric methods. 
-- Machine Learning & NLP: Build predictive models using supervised and unsupervised learning (tree-based models, neural networks, clustering, dimensionality reduction) and analyze unstructured text for insights.
+- Machine Learning & NLP: Build predictive models using supervised and unsupervised learning (tree-based models, clustering, dimensionality reduction) and analyze unstructured text for insights.
 - Data Storytelling: Translate complex data into clear narratives—uncovering trends, creating visualizations, and driving meaningful conversations.
 
 Recent Projects: 
