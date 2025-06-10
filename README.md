@@ -10,4 +10,4 @@ What I do:
 Recent Projects: 
 - Modeling Political Risk in India–China Hydropower Disputes using PCA-based risk index that integrates conflict intensity, ideological distance, and economic behavior.
 - Bay Wheels Operational Analysis to support infrastructure planning, enhance fleet efficiency, and promote equitable access to sustainable mobility.
-- Education and Exodus: Tracing policy-driven displacement through enrollment and funding shifts in Ravenswood School District (2018–2022).
+- Does the New York Times Promote Overconsumption: An LDA Topic-Modeling approach to analyze thematic shifts in archival New York Times articles from 2008 versus 2024.
